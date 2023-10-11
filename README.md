@@ -1,2 +1,2 @@
 # CO-202310
-MCY display banners
+COA display banners
