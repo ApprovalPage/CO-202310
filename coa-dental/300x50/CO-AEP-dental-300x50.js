@@ -431,7 +431,7 @@ if (reversed == null) { reversed = false; }
 
 	// Layer_1
 	this.shape = new cjs.Shape();
-	this.shape.graphics.f("#E40571").s().p("A3bTiMAAAgnDMAu3AAAMAAAAnDg");
+	this.shape.graphics.f("#CE0058").s().p("A3bTiMAAAgnDMAu3AAAMAAAAnDg");
 
 	this.timeline.addTween(cjs.Tween.get(this.shape).wait(1));
 
